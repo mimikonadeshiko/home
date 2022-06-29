@@ -1,1 +1,1 @@
-これを見てしまったらお前はもう死んでいる
+https://mimikonadeshiko.github.io/home/
