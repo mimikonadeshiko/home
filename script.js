@@ -1,10 +1,9 @@
 const options = {
     // Required: API key
-    key: 'PsLAtXpsPTZexBwUkO7Mx5I', // REPLACE WITH YOUR KEY !!!
+    key: 'dqcuE8aGsjMG46PmkGiKHsI0h67VwEWl', // REPLACE WITH YOUR KEY !!!
 
     // Put additional console output
     verbose: true,
-
     // Optional: Initial state of the map
     lat: 50.4,
     lon: 14.3,
