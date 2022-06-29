@@ -1,1 +1,1 @@
-# http-mimikonadeshiko.github.io
+これを見てしまったらお前はもう死んでいる
